@@ -1,6 +1,6 @@
 # msmbot
 
-# 🍁 MapleStory M Reset Tracker Bot
+# 🍁 MapleStory M Clock Reset Tracker Bot
 
 A Discord bot that tracks MapleStory M daily and weekly resets, boss timers, Guild Scramble, Path of Proof, and custom event pings — all updated live every 5 seconds.
 
