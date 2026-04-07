@@ -6,6 +6,9 @@
 
 A Discord bot that tracks MapleStory M daily and weekly resets, boss timers, Guild Scramble, Path of Proof, and custom event pings — all updated live every 5 seconds.
 
+Discord Invite Link:
+https://discord.com/oauth2/authorize?client_id=1488101431993962637&permissions=397821422608&integration_type=0&scope=bot
+
 ---
 
 ## 🆓 Free Features (all servers)
