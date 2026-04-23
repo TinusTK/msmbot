@@ -16,11 +16,11 @@ https://discord.com/oauth2/authorize?client_id=1488101431993962637&permissions=3
 - Live embed showing **Server Time**, **Daily Reset**, and **Weekly Reset** countdowns
 - Category channel name updates every 10 minutes with compact reset times
 - Auto-repost if the embed is deleted
+- **Guild Scramble** countdown with automatic role pings at start, 5 min, and now
 
 ## 💎 Premium Features (trial / paid)
 
 - **Pharaoh / Legends / Sharenian Culvert** countdown with automatic 1-hour role ping
-- **Guild Scramble** countdown with automatic role pings at start, 5 min, and now
 - **Path of Proof** 28-day timer with auto-reset and 1-hour role ping
 - **Weekly Boss Run timer** with custom day, time, and message
 - **Custom Timer Pings** — daily or weekly scheduled role pings with custom messages
@@ -97,7 +97,7 @@ The embed updates every **5 seconds** and shows:
 - 🔁 Weekly Boss Reset countdown
 - 🛕 Pharaoh / Legends / Sharenian Culvert countdown *(premium)*
 - 👹 Path of Proof countdown *(premium)*
-- ⚔️ Guild Scramble countdown *(premium)*
+- ⚔️ Guild Scramble countdown
 - 🕵️ Weekly Boss Run schedule countdown *(premium)*
 - ⏱️ Custom Countdown Timers *(premium)*
 
