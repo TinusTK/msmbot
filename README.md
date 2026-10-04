@@ -17,9 +17,6 @@ https://discord.com/oauth2/authorize?client_id=1488101431993962637&permissions=3
 - Category channel name updates every 10 minutes with compact reset times
 - Auto-repost if the embed is deleted
 - **Guild Scramble** countdown with automatic role pings at start, 5 min, and now
-
-## 💎 Premium Features (trial / paid)
-
 - **Pharaoh / Legends / Sharenian Culvert** countdown with automatic 1-hour role ping
 - **Path of Proof** 28-day timer with auto-reset and 1-hour role ping
 - **Weekly Boss Run timer** with custom day, time, and message
